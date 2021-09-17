@@ -11,5 +11,5 @@ if(numero ===8) {
                 }
 
 else{(numero)
-    alert("Tenes que poner un numero")
+    alert("Tenes que poner un número")
 }    
