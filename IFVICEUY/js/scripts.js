@@ -1,3 +1,8 @@
+let nombre = prompt("Por favor ingresa tu nombre");   
+    ingresado  = nombre + " " + "Bienvenido a IFVICEUY.";
+    alert(ingresado)
+    console.log(nombre);
+
 const Clickbutton = document.querySelectorAll('.button')
 const tbody = document.querySelector('.tbody')
 let carrito = []
